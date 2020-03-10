@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13ebf2b6-463c-4436-a43b-9625d566bed2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuaXPArPVRxSGGKJKlII9rQLW8" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/test-classes/features" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\OrangeHrm2\src\test\resources\BrowserSelector" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunTest">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHrm2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestOrangeHrm2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTestOrangeHrm2" />
+      <option name="MAIN_CLASS_NAME" value="WebTestOrangeHrm2.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.abs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHrm2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestOrangeHrm2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTestOrangeHrm2" />
+      <option name="MAIN_CLASS_NAME" value="WebTestOrangeHrm2.TestSuit" />
+      <option name="METHOD_NAME" value="abs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="TestNG.TestSuit.abs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13ebf2b6-463c-4436-a43b-9625d566bed2" name="Default Changelist" comment="" />
+      <created>1583794971969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583794971969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583852544698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583852544698" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1583877165735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583877165735" />
+    <state width="1367" height="180" key="GridCell.Tab.0.bottom" timestamp="1583883980614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583883980614" />
+    <state width="1367" height="180" key="GridCell.Tab.0.center" timestamp="1583883980614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583883980614" />
+    <state width="1367" height="180" key="GridCell.Tab.0.left" timestamp="1583883980614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583883980614" />
+    <state width="1367" height="180" key="GridCell.Tab.0.right" timestamp="1583883980614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583883980614" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1583855828854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583855828854" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583795131203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583795131203" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583883646840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583883646840" />
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583877417023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583877417023" />
+  </component>
+</project>
